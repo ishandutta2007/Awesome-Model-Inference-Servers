@@ -1,6 +1,6 @@
 # Awesome-Model-Inference-Servers
 
-# Top Model Inference Servers Ecosystem
+## Top Model Inference Servers Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on PagedAttention, TensorRT Compilation & Hardware-Specific Throughput*  
