@@ -75,7 +75,7 @@ The following table indexes leading enterprise-grade managed inference providers
 
 ## 🚀 Top Open-Source Model Inference Engines
 
-The following section indexes the most popular open-source inference servers, runtimes, and distributed serving frameworks, **sorted in descending order of GitHub stargazers**. Each project includes a live star badge linking directly to the repository's stargazers page:
+The following section indexes the most popular open-source inference servers, runtimes, and distributed serving frameworks, **sorted in descending order of GitHub stargazers**. Each project includes a live Stars_Badge linking directly to the repository's stargazers page:
 
 ### 1. 🦙 Ollama
 * **Stars**: <a href="https://github.com/ollama/ollama/stargazers"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social&color=white" alt="Ollama stars" /></a>
@@ -263,8 +263,8 @@ The following section indexes the most popular open-source inference servers, ru
 Contributions are warmly welcomed! Help keep this directory current, accurate, and comprehensive:
 
 1. **Fork the repository** on GitHub.
-2. **Add or modify entries** in `README.md` adhering to the standard tables and star badges.
-3. **Verify the details**: Ensure verified pricing, free tier limits, star badges, and official links.
+2. **Add or modify entries** in `README.md` adhering to the standard tables and Stars_Badges.
+3. **Verify the details**: Ensure verified pricing, free tier limits, Stars_Badges, and official links.
 4. **Submit a Pull Request** with a descriptive summary of your additions.
 
 ---
